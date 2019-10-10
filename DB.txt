@@ -1,0 +1,35 @@
+website link- autohomeiot.000webhostapp.com
+
+DB name-
+id10786212_iot
+
+DB User-
+id10786212_iot
+
+DB password-
+autohomeiot
+
+DB Host-
+localhost
+
+
+website name- autohomeiot
+password- iot27forus
+
+
+#000webhost-
+Login id- sudiptarana00@gmail.com
+password- rana27
+
+postman-
+name- @Rana
+password- rana27
+
+
+dbconfig.php- for configaration of the database
+db_connect.php-to connect to the database
+insert.php- for insert
+specific.php- for spasify or seaching one
+readall- for read all data
+delete.php-
+update.php-
